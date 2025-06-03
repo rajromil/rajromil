@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romil Raj</h1>
-<h3 align="center">A passionate student inclined towards Web Development and working on projects.</h3>
+<h3 align="center">A passionate student exploring Web Development, currently building interactive CRUD projects and learning to create meaningful digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajromil&label=Profile%20views&color=0e75b6&style=flat" alt="rajromil" /> </p>
 
