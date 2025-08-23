@@ -1,7 +1,7 @@
 # Hello Visitor!
 I'm **ROMIL RAJ**
 
-I'm a passionate developer and a final/pre-final year student at **Birla Institute of Technology, Mesra, Ranchi**, pursuing my Bachelors in Technology.
+I'm a passionate developer and a pre-final year student at **Birla Institute of Technology, Mesra, Ranchi**, pursuing my Bachelors in Technology.
 
 Currently a **GSSoC'25 Contributor**, where I'm actively contributing to open-source projects and expanding my skills in collaborative development.
 
