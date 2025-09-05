@@ -1,4 +1,4 @@
-# Hello Visitor!👋
+# Hello!👋
 I'm **ROMIL RAJ**
 
 I'm a passionate developer and a pre-final year student at **Birla Institute of Technology, Mesra, Ranchi**, pursuing my Bachelors in Technology.
